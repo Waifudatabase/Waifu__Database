@@ -87,7 +87,7 @@ public class MyGdxGame extends ApplicationAdapter {
 		img = new Texture("roof.png");
 		lolit = new Texture("loli.png");
 		butt = new Texture("butt.png");
-		// p = new Texture("p.png");
+		p = new Texture("p.png");
 		goosetext = new Texture("goosetext.png");
 		MyInputProcessor inputProcessor = new MyInputProcessor();
 		Gdx.input.setInputProcessor(inputProcessor);
